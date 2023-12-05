@@ -25,6 +25,14 @@ I am Madison. I am currently a project managaer who is trying to break into the 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=<mhersom>&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<mhersom>&hide=TeX&layout=compact)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<mhersom>%2F<mhersom>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<mhersom>%2F<mhersom>)
+
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
